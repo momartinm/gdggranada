@@ -1,0 +1,77 @@
+[
+  {
+    "id": "5128b2d2-d91d-4a79-b563-44aca9510297",
+    "data": [
+      {
+        "text": "Que puedo ver en el ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "track",
+        "meta": "@track",
+        "userDefined": false
+      },
+      {
+        "text": " 2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551235686
+  },
+  {
+    "id": "508fd339-ced6-4e12-8dbd-596c7d6f36cc",
+    "data": [
+      {
+        "text": "Que charlas ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " en el ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "track",
+        "meta": "@track",
+        "userDefined": false
+      },
+      {
+        "text": " 2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551235686
+  },
+  {
+    "id": "471c41a6-af9f-499d-8940-f56c8aa4ec82",
+    "data": [
+      {
+        "text": "Cual es el horario del ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "track",
+        "meta": "@track",
+        "userDefined": true
+      },
+      {
+        "text": " 2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551235686
+  }
+]

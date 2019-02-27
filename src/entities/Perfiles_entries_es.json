@@ -1,0 +1,20 @@
+[
+  {
+    "value": "Estudiante",
+    "synonyms": [
+      "Estudiante"
+    ]
+  },
+  {
+    "value": "Profesional",
+    "synonyms": [
+      "Profesional"
+    ]
+  },
+  {
+    "value": "Profesor",
+    "synonyms": [
+      "Profesor"
+    ]
+  }
+]

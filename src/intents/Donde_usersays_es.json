@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9261d1fc-2f40-4475-932d-15f05001d772",
+    "data": [
+      {
+        "text": "¿Dónde es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542339810
+  },
+  {
+    "id": "bc459920-3d48-4a96-9c8f-ca3e7f36acfe",
+    "data": [
+      {
+        "text": "Dónde se celebra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542339810
+  },
+  {
+    "id": "3df181f0-7a7f-49bd-8e81-3e3c42741f04",
+    "data": [
+      {
+        "text": "Dónde se organi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542339810
+  }
+]

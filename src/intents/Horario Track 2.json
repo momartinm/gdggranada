@@ -1,0 +1,59 @@
+{
+  "id": "d1240d48-f3f2-4c93-99d8-c6b1b56e3725",
+  "name": "Horario Track 2",
+  "auto": true,
+  "contexts": [
+    "awaiting_necesidad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f95bf0d6-243b-4cd0-ace9-b48e5487265b",
+          "required": true,
+          "dataType": "@track",
+          "name": "track",
+          "value": "$track",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "9:15 a 10:00 - #AbadIA: Como creamos una AI para jugar y resolver La Abadía del Crimen (Juan Tomás)"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "10:00 a 10:45 - Integrating your IoT projects with Actions On Google (Orestes Cararcedo)"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "10:45 a 11:15 - Coffee Break"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "11:15 a 12:00 - Dialogflow: chateando con las máquinas o al menos intentándolo (Yo soy tu padre)"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "12:00 a 12:15 - Kubernetes, Istio \u0026 Kiali (Alberto de nuevo???)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551235686,
+  "fallbackIntent": false,
+  "events": []
+}

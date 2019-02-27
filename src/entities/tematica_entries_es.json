@@ -1,0 +1,36 @@
+[
+  {
+    "value": "Inteligencia Artificial",
+    "synonyms": [
+      "Inteligencia Artificial"
+    ]
+  },
+  {
+    "value": "ChatBots",
+    "synonyms": [
+      "ChatBots, Interfaces conversacionales"
+    ]
+  },
+  {
+    "value": "Android",
+    "synonyms": [
+      "Android",
+      "Movil"
+    ]
+  },
+  {
+    "value": "Juegos",
+    "synonyms": [
+      "Juegos",
+      "VideoJuegos",
+      "Juegos de Ordenador"
+    ]
+  },
+  {
+    "value": "Cloud",
+    "synonyms": [
+      "Cloud",
+      "Nube"
+    ]
+  }
+]

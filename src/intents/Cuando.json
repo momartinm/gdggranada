@@ -1,0 +1,35 @@
+{
+  "id": "e0d7b6c4-c56d-4862-a7c2-9df777badc13",
+  "name": "Cuando",
+  "auto": true,
+  "contexts": [
+    "awaiting_necesidad"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Se celebra el 16 de Noviembre de 2018.",
+            "Es el día 16 de Noviembre de 2018.",
+            "Es en Noviembre, el día 16."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542339626,
+  "fallbackIntent": false,
+  "events": []
+}

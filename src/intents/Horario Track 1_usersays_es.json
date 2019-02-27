@@ -1,0 +1,77 @@
+[
+  {
+    "id": "85d16e48-da12-4f6c-bbbe-40d0d55a6cd9",
+    "data": [
+      {
+        "text": "Que tipo de charlas tenéis en el ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "track",
+        "meta": "@track",
+        "userDefined": false
+      },
+      {
+        "text": " 1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551235653
+  },
+  {
+    "id": "cb1a7b26-f471-477b-a18a-a540c8fec4ee",
+    "data": [
+      {
+        "text": "Que charlas ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " en el ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "track",
+        "meta": "@track",
+        "userDefined": false
+      },
+      {
+        "text": " 1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551235653
+  },
+  {
+    "id": "6a9e6571-8ee0-42f6-8b44-6f951558b1f2",
+    "data": [
+      {
+        "text": "Cual es el horario del ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "track",
+        "meta": "@track",
+        "userDefined": false
+      },
+      {
+        "text": " 1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551235653
+  }
+]
